@@ -28,12 +28,12 @@
 		"@sveltejs/vite-plugin-svelte": "1.2.3",
 		"prettier": "^3.3.2",
 		"prettier-plugin-svelte": "^3.2.6",
-		"publint": "catalog:",
-		"svelte": "catalog:",
-		"svelte-check": "catalog:",
+		"publint": "1.2.3",
+		"svelte": "1.2.3",
+		"svelte-check": "1.2.3",
 		"typescript": "^5.5.0",
-		"valibot": "catalog:",
-		"vite": "catalog:"
+		"valibot": "1.2.3",
+		"vite": "1.2.3"
 	},
 	"type": "module",
 	"exports": {
